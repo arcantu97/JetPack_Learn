@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SocialApp</string>
+    <string name="email_label">Email</string>
+    <string name="forgot_password_message">Forgot Password?</string>
+    <string name="login_btn_label">Login</string>
+    <string name="not_account_message">Do not have an Account? \t</string>
+    <string name="sign_up_message">Sign up</string>
+</resources>
